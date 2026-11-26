@@ -1,3 +1,4 @@
 .env
 .acmoj_token
 *.dat
+__pycache__/
